@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
@@ -11,7 +10,7 @@
 
     <groupId>zone.dragon.dropwizard</groupId>
     <artifactId>dropwizard-configuration-freemarker</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.2-aa32f6</version>
 
     <name>Freemarker Template Support for Dropwizard Configuration</name>
     <description>
@@ -23,7 +22,7 @@
         <connection>scm:git:http://code.dragon.zone/dragonzone/dropwizard-configuration-freemarker.git</connection>
         <developerConnection>scm:git:ssh://git@code.dragon.zone:dragonzone/dropwizard-configuration-freemarker.git</developerConnection>
         <url>https://code.dragon.zone/dragonzone/dropwizard-configuration-freemarker/tree/master</url>
-        <tag>HEAD</tag>
+        <tag>dropwizard-configuration-freemarker-1.0.2</tag>
     </scm>
 
     <licenses>
